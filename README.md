@@ -1,2 +1,2 @@
 # MySpot
-Bypass System Hotspot App
+Bypass System Hotspot
